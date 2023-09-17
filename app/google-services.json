@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148634555827",
+    "project_id": "pcmarketpro-80303",
+    "storage_bucket": "pcmarketpro-80303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148634555827:android:8717b30e8ebdf3753d27c6",
+        "android_client_info": {
+          "package_name": "com.example.pcmarketpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXR4Csnjj4lURmEVWEsoFJnNUX36qJ9ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

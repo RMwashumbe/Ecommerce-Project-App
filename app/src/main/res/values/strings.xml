@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PCMarketPro</string>
+    <string name="invalid_address" />
+    <string name="invalid_cvc_code" />
+    <string name="invalid_year" />
+    <string name="invalid_month" />
+    <string name="invalid_credit_card_number" />
+    <string name="invalid_cardholder_name" />
+    <string name="something_went_wrong" />
+    <string name="invalid_mail" />
+    <string name="invalid_password" />
+</resources>
